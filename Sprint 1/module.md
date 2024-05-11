@@ -92,7 +92,7 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/FlyEmris/CSE-310/tree/main/Sprint%201
 
 2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/8RbQJ1N2vQc
 
@@ -100,11 +100,11 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
+|Are the links above public and working?                     |    X   |
 |Did you complete all the unique requirements for the module?|    X   |
 |Did you write at least 100 lines of code?                   |    X   |
 |Did you fully complete the readme.md file?                  |    X   |
-|Did you put the readme.md file in GitHub in the top folder? |    X   |
+|Did you put the readme.md file in GitHub in the top folder? |    X   | 
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. 
 I added a bit of recursion in my code.
