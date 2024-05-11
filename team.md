@@ -83,6 +83,10 @@ This section should be filled out during the second Sprint and submitted by one 
 
 ### Section 2.1 - Project Scope
 
+This section should be filled out during the second Sprint and submitted by one member of the team.
+
+### Section 2.1 - Project Scope
+
 1. Software Title:
 
 2. Software Description:
