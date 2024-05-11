@@ -26,7 +26,7 @@ During this semester, your team will work together to create an application to h
 1. What tool will use for team assignments (e.g. Trello, MS Planner, Asana)? 
     - Jira
 
-2. What tool will use for team communication (e.g. MS Teams, Slack, Discord)? 
+2. What tool will use for team communication (e.g. MS Teams, Slack, Discord)?
     - Discord
 
 3. Is every team members connected with the tools that you selected?

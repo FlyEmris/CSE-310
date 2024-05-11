@@ -73,15 +73,15 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|4/29/2024 | 11:30    |  IM    |     Spent time planning my Project         |    30       |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|4/29/2024 | 11:30    |  IM    |Spent time planning my Project              |    30 min   |
+|5/1/2024  | 10:15    |  TP    |Started Planning Meeting and getting ideas. |    1 Hr     |
+|5/2/2024  | 4:30     |  TP    |Meeting and finilizing starting sequence    |    1 Hr     |
+|5/3/2024  | 12:00    |  IM    |Started Developing my game                  |    4 Hr     |
+|5/4/2024  | 2:00     |  IM    |Got the board and people loop               |    4 Hr     |
+|5/6/2024  | 10:15    |  TP    |Team Meating More Planning!                 |    1 Hr     |
+|5/6/2024  | 1:00     |  IM    |Finishing up touches to my project!         |    2 Hr     |
+|5/9/2024  | 4:30     |  TP    |Discused the software and split into groups |    1 Hr     |
+|5/11/2024 | 12:00    |  IM    |Finished my project video and module readme |    2 Hr     |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -94,27 +94,31 @@ This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: 
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/8RbQJ1N2vQc
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
 |Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Did you complete all the unique requirements for the module?|    X   |
+|Did you write at least 100 lines of code?                   |    X   |
+|Did you fully complete the readme.md file?                  |    X   |
+|Did you put the readme.md file in GitHub in the top folder? |    X   |
 
-4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. 
+I added a bit of recursion in my code.
 
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+I did not change my module during the sprint.
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|12 hours 30 minutes|
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+Setting time aside to work on the project really helped me quite a bit. It helped me focus and know that I set apart that time to work on my sprint. 
+I think next sprint I would like to use more resources either online or in person to help learn the language or software better.
 
