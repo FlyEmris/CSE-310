@@ -1,6 +1,6 @@
 # CSE 310 - Module Report
 
-Name:
+Name: Jonathan Leonardson
 
 ## Part 1 - Module Planning
 
@@ -83,7 +83,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |05/21/2024|2:00      |IM      |Worked out rand sort bug and added to lists |2 Hrs        |
 |05/23/2024|12:00     |IM      |Finished the base layout of my project      |2 Hrs        |
 |05/24/2024|4:30      |TP      |Discussed final project layout              |1 hr         |
-|          |          |        |                                            |             |
+|05/25/2024|2:30      |IM      |Finished my video and project               |2 hr         |
 
 _Note: Add more rows as needed._
 
@@ -92,29 +92,33 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/FlyEmris/CSE-310/tree/main/Sprint%202
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://www.youtube.com/watch?v=p1u0E-3zKyw&feature=youtu.be
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|   Yes  |
+|Did you write at least 100 lines of code?                   |   No   |
+|Did you fully complete the readme.md file?                  |   Yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   Yes  |
 
-4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. 
 
-5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it. No
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|12 Hours           |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+Taking time to set up my enviroment during the start of the sprint was a great sucess. It allowed me to fix any issues I had earlier on.
+Learning th esyntax was a bit tricky especially looping. I kept running into errors and lost a bunch of time trying to understand them.
+I would like to next time ask for help and find people who could guide me through a process such as that so I won't spend so much time running into the same error.
 
