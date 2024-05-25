@@ -1,6 +1,5 @@
-extern crate rand;
-
 use rand::seq::SliceRandom; // Import SliceRandom for random selection from a slice
+use rand::seq::IteratorRandom;
 use rand::thread_rng; // Import thread_rng to get a random number generator
 use std::io; // Import io for input/output
 
