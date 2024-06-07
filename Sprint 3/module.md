@@ -62,12 +62,16 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|05/29/2024|12:00     |IM      |Started setting up enviroment               | 2 Hr        |
+|5/30/2024 |2:00      |IM      |Started building base game enviroment       | 2 Hr        |
+|5/30/2024 |4:30      |TP      |Worked on team project and added sounds     | 1 Hr        |
+|5/31/2024 |12:00     |IM      |Added hazards to my project                 | 2 Hr        |
+|6/4/2024  |12:00     |TP      |Fixed the setting menu                      | 1 Hr        |
+|6/6/2024  |11:30     |IM      |Added points system                         | 2 Hr        |
+|6/6/2024  |2:30      |IM      |Added collectable ponts                     | 1 Hr        |
+|6/6/2024  |3:30      |Tp      |Added sounds and transfered project files   | 2 Hr        |
+|6/7/2024  |12:00     |IM      |Fixed bugs and errors                       | 2 Hr        |
+|6/6/2024  |2:00      |IM      |Recording and finishing touches             | 2 Hr        |
 
 _Note: Add more rows as needed._
 
@@ -76,29 +80,31 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/FlyEmris/CSE-310/tree/main/Sprint%203
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/WaIU1rQYPWs
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|   Yes  |
+|Did you write at least 100 lines of code?                   |   Yes  |
+|Did you fully complete the readme.md file?                  |   Yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   Yes  |
 
-4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. No stretch challenges.
 
-5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it. No
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|  13 Hours         |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+I had so much fun during this sprint I would get distracted on different projects. Which I guess overall isn't bad but I had to refocus a couple times.
+Hopefully 
 
