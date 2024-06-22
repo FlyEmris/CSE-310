@@ -19,10 +19,10 @@ You will work on one module in every 2 week Sprint.  During the Sprint, you will
 |Game Framework           |        |        |    X   |        |        |
 |GIS Mapping              |        |        |        |        |        |
 |Mobile App               |        |        |        |        |        |
-|Networking               |        |        |        |    X   |        |
+|Networking               |        |        |        |        |        |
 |SQL Relational Databases |        |        |        |        |        |
 |Web Apps                 |        |        |        |        |        |
-|C++                      |        |        |        |        |        |
+|C++                      |        |        |        |   X    |        |
 |Java                     |        |        |        |        |        |
 |Kotlin                   |        |        |        |        |        |
 |Erlang                   |    X   |        |        |        |        |
